@@ -7,25 +7,17 @@ CSS code needed formating and cleaning making it accesible for the other users a
 
 - Header section
 What I noticed upon opening the code was the repetition of "div" element which helps create a "containing box" for the following code but is not a great element because it doesnt not clear up what the section is and what part of the coding are we working on. So I decided to create unique elements for each section. 
-- ![Header after refactoring ](assets\images\navigation.bar.png)
+- ![Header after refactoring ](assets/images/navigation.bar.png)
 
 This make it easy for me to refactor the CSS styling sheet because now I had specific elements, classes and ID to work on
-- ![Css after refactoring ](assets\images\navigation.bar.css.png)
+- ![Css after refactoring ](assets/images/navigation.bar.css.png)
 
 - Hero section
 My second step was adjusting the hero part which in this case was only the main background image.
-- ![Hero img](assets\images\digital-marketing-meeting.jpg)
+- ![Hero img](assets/images/digital-marketing-meeting.jpg)
 
-
-
-
-
-
-
-
-
-
-
+- Main Section
+The main section was the most important one as I needed to create to columns and give both the right CSS styles 
 
 
 
