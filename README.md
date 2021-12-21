@@ -11,6 +11,25 @@ What I noticed upon opening the code was the repetition of "div" element which h
 
 This make it easy for me to refactor the CSS styling sheet because now I had specific elements, classes and ID to work on
 - ![Css after refactoring ](assets\images\navigation.bar.css.png)
+
+- Hero section
+My second step was adjusting the hero part which in this case was only the main background image.
+- ![Hero img](assets\images\digital-marketing-meeting.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Contributors 
 - Blerand Ismaili <https://github.com/BlerandIsm>
 
