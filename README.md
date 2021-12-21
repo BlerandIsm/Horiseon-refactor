@@ -4,4 +4,4 @@ In this project I was given a broken code that needed to be refactored in order 
 The code was missing signficant structural pieces starting with the search bar where the hyperlinks were not working 
 
 ## Contributors 
-- Blerand Ismaili <ismailiblerand@gmail.com>
+- Blerand Ismaili <https://github.com/BlerandIsm>
