@@ -5,6 +5,6 @@ The code was missing signficant structural pieces starting with the search bar w
 HTML sematics needed retouching
 CSS code needed formating and cleaning making it accesible for the other users and simplifying while saving the websites main fundamentals
 
-- ![testone](https:github.com/"C:\Users\ismai\OneDrive\Desktop\Modle 1\Homework\Week one\project/navigationbar.css")
+- ![testone](C:\Users\ismai\OneDrive\Desktop\Modle 1\Homework\Week one\project\navigationbar.css)
 ## Contributors 
 - Blerand Ismaili <https://github.com/BlerandIsm>
